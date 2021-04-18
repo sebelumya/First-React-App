@@ -1,2 +1,2 @@
 # First-React-App
-First React app - google keep app production build
+First React app - google keep app development and production build
